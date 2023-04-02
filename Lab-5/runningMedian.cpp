@@ -7,7 +7,7 @@ int main() {
     vector<int> integerVector;
     int element;
 	
-    while (cin >> element) // read integer inputs until end-of-file (EOF) is reached
+    while (cin >> element) // Read integer inputs until end-of-file (EOF) is reached.
     {
         integerVector.push_back(element);
 		
