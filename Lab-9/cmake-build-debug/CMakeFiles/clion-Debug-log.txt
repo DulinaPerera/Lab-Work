@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "E:\Education\Campus Documents\4. Semester 02\Data Structures & Algorithms\Lecture Material\9. Graphs\In-class Lab Exercise\Lab-9" -B "E:\Education\Campus Documents\4. Semester 02\Data Structures & Algorithms\Lecture Material\9. Graphs\In-class Lab Exercise\Lab-9\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/9. Graphs/In-class Lab Exercise/Lab-9/cmake-build-debug
