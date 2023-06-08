@@ -1,0 +1,44 @@
+"C:\Program Files\JetBrains\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "E:\Education\Campus Documents\4. Semester 02\Data Structures & Algorithms\Lecture Material\11. Single Source Shortest Paths\In-class Lab Exercise\Lab 11" -B "E:\Education\Campus Documents\4. Semester 02\Data Structures & Algorithms\Lecture Material\11. Single Source Shortest Paths\In-class Lab Exercise\Lab 11\cmake-build-debug"
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+CMake Warning in E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/11. Single Source Shortest Paths/In-class Lab Exercise/Lab 11/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zsg9x4/CMakeLists.txt:
+  The object file directory
+
+    E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/11. Single Source Shortest Paths/In-class Lab Exercise/Lab 11/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zsg9x4/CMakeFiles/cmTC_bff45.dir/./
+
+  has 241 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/11. Single Source Shortest Paths/In-class Lab Exercise/Lab 11/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bfwivk/CMakeLists.txt:
+  The object file directory
+
+    E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/11. Single Source Shortest Paths/In-class Lab Exercise/Lab 11/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bfwivk/CMakeFiles/cmTC_f779a.dir/./
+
+  has 241 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Education/Campus Documents/4. Semester 02/Data Structures & Algorithms/Lecture Material/11. Single Source Shortest Paths/In-class Lab Exercise/Lab 11/cmake-build-debug
