@@ -206,7 +206,9 @@ void dijkstra(const std::vector<std::vector<int>>& cityGraph, int source) {
                 }
             }
         }
-        minHeap->heapify(0);
+        for (int i = minHeap->getSize() / 2; i >= 0; i--) {
+            minHeap->heapify(i);
+        }
     }
 
     // Print shortest paths from source city to all other cities
